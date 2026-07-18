@@ -1,0 +1,5 @@
+# no external packages required.
+# this project uses python's built-in modules:
+# - tkinter
+# - random
+# - strings
